@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Basicly adds a crap ton of math functions to mc",
+    "min_format": [
+      107,
+      1
+    ],
+    "max_format": 107
+  }
+}
