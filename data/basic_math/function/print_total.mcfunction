@@ -1,0 +1,1 @@
+execute run title @s actionbar [{"text":"Value is currently: ","color":"yellow"},{"score":{"name":"$total","objective":"total"},"color":"green"}]
