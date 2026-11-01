@@ -1,0 +1,1 @@
+scoreboard players operation $total total *= $(num) total
